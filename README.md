@@ -12,3 +12,5 @@ La idea es observar cómo diferentes tipos de bacterias reaccionan ante estos ca
 En resumen, este proyecto universitario es una simulación interactiva que te permite explorar cómo diferentes tipos de bacterias se comportan en un entorno controlado, lo que te ayuda a comprender la importancia de los factores ambientales en la vida microbiana.
 
 IMAGEN ILUSTRATIVA:
+
+[![Simulador-Bacterias.png](https://i.postimg.cc/tgm91Wpy/Simulador-Bacterias.png)](https://postimg.cc/JyJfvysd)
