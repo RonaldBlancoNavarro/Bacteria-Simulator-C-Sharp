@@ -1,16 +1,15 @@
-# Simulador-Bacterias-C#
-Proyecto del curso de Estructuras de Datos, Universidad Nacional
+# Bacteria Simulator C#
+Project of the Data Structures course, National University of Costa Rica.
 
-El simulador consiste en un un pequeño ecosistema donde diferentes tipos de bacterias viven y se desarrollan. Este software está hecho utilizando C#, POO, threats y la interfaz gráfica de Windows Forms para que sea fácil de usar y comprender.
+The simulator consists of a small ecosystem where different types of bacteria live and develop. This software is made using C#, OOP, threats and the simple graphical interface of Windows Forms.
 
-En esta simulación, puedes controlar varios factores ambientales como la temperatura, el oxígeno, el dióxido de carbono y la humedad. Estos factores tienen un impacto directo en cómo crecen y se comportan las bacterias, que se pueden clasificar como psicrofilas, mesofilas y termofilas.
+In this simulation, you can control various environmental factors such as temperature, oxygen, carbon dioxide and humidity. These factors have a direct impact on how bacteria, which can be classified as psychrophilic, mesophilic and thermophilic, grow and behave.
 
-Por ejemplo, si aumentas la temperatura, algunas bacterias podrían prosperar mientras que otras podrían morir debido al calor extremo. Del mismo modo, si ajustas los niveles de oxígeno o dióxido de carbono, algunas bacterias podrían multiplicarse rápidamente mientras que otras podrían verse afectadas negativamente.
+For example, if you increase the temperature, some bacteria may thrive while others may die due to the extreme heat. Similarly, if you adjust oxygen or carbon dioxide levels, some bacteria may multiply rapidly while others may be adversely affected.
 
-La idea es observar cómo diferentes tipos de bacterias reaccionan ante estos cambios ambientales.
+The idea is to observe how different types of bacteria react to these environmental changes.
 
-En resumen, este proyecto universitario es una simulación interactiva que te permite explorar cómo diferentes tipos de bacterias se comportan en un entorno controlado, lo que te ayuda a comprender la importancia de los factores ambientales en la vida microbiana.
+In conclusion, this university project is an interactive simulation that allows you to explore how different types of bacteria behave in a controlled environment, which helps you understand the importance of environmental factors in microbial life.
 
-IMAGEN ILUSTRATIVA:
-
+ILLUSTRATIVE IMAGE:
 [![Simulador-Bacterias.png](https://i.postimg.cc/tgm91Wpy/Simulador-Bacterias.png)](https://postimg.cc/JyJfvysd)
