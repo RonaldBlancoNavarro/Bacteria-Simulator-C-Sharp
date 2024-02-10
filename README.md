@@ -9,7 +9,7 @@ For example, if you increase the temperature, some bacteria may thrive while oth
 
 The idea is to observe how different types of bacteria react to these environmental changes.
 
-In conclusion, this university project is an interactive simulation that allows you to explore how different types of bacteria behave in a controlled environment, which helps you understand the importance of environmental factors in microbial life.
+In conclusion, this university project is an interactive simulation that allows you to explore how different types of bacteria behave in a controlled environment, which helps you understand the importance of environmental factors in microbial life.Language: Spanish.
 
 ILLUSTRATIVE IMAGE:
 [![Simulador-Bacterias.png](https://i.postimg.cc/tgm91Wpy/Simulador-Bacterias.png)](https://postimg.cc/JyJfvysd)
